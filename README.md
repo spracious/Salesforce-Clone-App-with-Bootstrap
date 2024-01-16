@@ -1,0 +1,2 @@
+# Salesforce Clone App with Bootstrap
+ Welcome to the Salesforce Clone App repository! This project is a clone of certain aspects of the Salesforce web application, created for educational purposes with a focus on learning and implementing Bootstrap, a widely-used front-end framework. Salesforce is a cloud-based Customer Relationship Management (CRM) platform, and this clone replicates some of its user interface components using Bootstrap.
